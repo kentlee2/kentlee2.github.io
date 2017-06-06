@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="iapppay_plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/iapppay_res/libs/iapppay_plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

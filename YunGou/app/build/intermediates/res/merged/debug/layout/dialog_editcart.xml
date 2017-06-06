@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText
+        android:textColor="@color/black_text"
+        android:gravity="center"
+        android:id="@+id/et_count"
+        android:background="@drawable/dialog_cart_edit_bg"
+        android:layout_width="96.0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8.0dip"
+        android:layout_marginRight="8.0dip"
+        android:layout_marginTop="15dp"
+        android:singleLine="true"
+        android:maxLength="7"
+        android:digits="\ 1234567890"
+        android:layout_below="@+id/tv_surplus_count"
+        android:layout_centerHorizontal="true"
+        android:inputType="phone" />
+    <ImageButton
+        android:id="@+id/btn_decrease"
+        android:background="@drawable/btn_decrease_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_toLeftOf="@+id/et_count"
+        android:layout_below="@+id/tv_surplus_count" />
+    <ImageButton android:id="@+id/btn_increase"
+        android:background="@drawable/btn_increase_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@+id/et_count"
+        android:layout_below="@+id/tv_surplus_count" />
+</RelativeLayout>

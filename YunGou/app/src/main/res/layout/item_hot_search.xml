@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textSize="@dimen/text_medium"
+    android:textColor="@color/black_text"
+    android:gravity="center"
+    android:background="@drawable/hot_search_bg"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minHeight="36.0dip"
+    android:singleLine="true"
+   xmlns:android="http://schemas.android.com/apk/res/android" />

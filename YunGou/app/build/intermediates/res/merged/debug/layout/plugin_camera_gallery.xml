@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:hq="http://schemas.android.com/apk/res-auto">
+
+    <com.haoqi.yungou.customView.NavigationView
+        android:id="@+id/headview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        hq:leftBackgroud="@drawable/previous_pre"/>
+    
+     <RelativeLayout
+        android:id="@+id/bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentBottom="true">
+ 		
+        <Button
+            android:id="@+id/send_button"
+            android:layout_width="90dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:text="@string/complete"
+            android:background="@drawable/button_add_to_cart"
+            />
+
+    </RelativeLayout>
+    
+    <com.haoqi.yungou.widget.zoom.ViewPagerFixed
+      android:id="@+id/gallery01" 
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content"
+      android:layout_above="@id/bottom_layout"
+      android:layout_below="@id/headview"
+      android:layout_centerHorizontal="true"
+      android:background="@color/black"
+      android:unselectedAlpha="1">
+   	</com.haoqi.yungou.widget.zoom.ViewPagerFixed>
+   
+</RelativeLayout>
+  

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="classify_string">
+        <item>所有商品</item>
+        <item>手机数码</item>
+        <item>电脑办公</item>
+        <item>钟表首饰</item>
+        <item>家用电器</item>
+        <item>化妆个护</item>
+        <item>食品饮料</item>
+        <item>家居家纺</item>
+        <item>礼品箱包</item>
+        <item>运动户外</item>
+        <item>营养保健</item>
+        <item>母婴</item>
+        <item>汽车</item>
+        <item>房子</item>
+        <item>其它商品</item>
+    </string-array>
+    <string-array name="my_menu">
+        <item>我的云购记录</item>
+        <item>获得的商品</item>
+        <item>我的晒单</item>
+        <item>账户明细</item>
+    </string-array>
+
+    <string-array name="feedBack">
+        <item>投诉与建议</item>
+        <item>商品配送</item>
+        <item>售后服务</item>
+    </string-array>
+
+</resources>

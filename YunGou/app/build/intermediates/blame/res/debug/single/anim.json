@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pophidden_anim.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\anim\\pophidden_anim.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\praise.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\anim\\praise.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\anim\\push_top_in2.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_translate_out.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\anim\\activity_translate_out.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_up.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\anim\\activity_up.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_translate_in.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\anim\\activity_translate_in.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_down.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\anim\\activity_down.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\textview_alpha.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\anim\\textview_alpha.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\anim\\push_top_out2.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popshow_anim.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\anim\\popshow_anim.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

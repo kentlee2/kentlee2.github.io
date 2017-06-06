@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/theme">
+
+        <ImageView
+            android:id="@+id/iv_nav_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:padding="13dp"
+            android:background="@drawable/common_tab_bg"
+            android:src="@drawable/previous_pre"
+            android:onClick="back"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true" />
+        <TextView
+            android:id="@+id/tv_nav_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:text="@string/litmit_area"/>
+   <FrameLayout
+       android:layout_width="50dp"
+       android:layout_height="50dp"
+       android:layout_alignParentRight="true"
+       android:layout_centerVertical="true">
+       <ImageView
+           android:id="@+id/iv_limit_right"
+           android:layout_width="50dp"
+           android:layout_height="50dp"
+           android:padding="13dp"
+           android:background="@drawable/common_tab_bg"
+           android:src="@drawable/shopping_icon"
+            />
+       <TextView
+           android:id="@+id/limit_cart_count"
+           android:layout_width="12dp"
+           android:layout_height="12dp"
+           android:layout_gravity="right"
+           android:layout_margin="10dp"
+           android:gravity="center"
+           android:visibility="gone"
+           android:textSize="10sp"
+           android:textColor="@color/red_text"
+           android:background="@drawable/circle_white_dot_bg"/>
+   </FrameLayout>
+
+
+    </RelativeLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_limit_goods"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/tab_background"
+        android:orientation="vertical">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/limit_notice"
+        android:id="@+id/tv_limit_notice"
+        android:textSize="@dimen/text_micro"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal" />
+
+    <com.haoqi.yungou.widget.CustomGridView
+        android:id="@+id/gv_limit_goods"
+        android:fadingEdge="none"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="10dp"
+        android:numColumns="2"
+        android:stretchMode="columnWidth"
+        android:listSelector="@color/transparent"
+        android:verticalSpacing="8dp"
+        android:horizontalSpacing="8dp"
+        android:dividerHeight="0.0dip" />
+    <com.haoqi.yungou.customView.EmptyView
+        android:id="@+id/emptyview_limit_goods"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+    </LinearLayout>
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

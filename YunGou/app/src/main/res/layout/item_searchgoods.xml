@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@+id/layout"
+        android:background="@drawable/item_normal_bg" 
+        android:paddingLeft="10.0dip"
+        android:paddingTop="10.0dip" 
+        android:paddingBottom="10.0dip" 
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/goods_pic"
+            android:layout_width="100.0dip" 
+            android:layout_height="100.0dip"
+            android:scaleType="fitCenter" />
+        <ImageView 
+            android:id="@+id/iv_label_searchgoods" 
+            android:visibility="invisible" 
+            android:layout_width="36.0dip" 
+            android:layout_height="36.0dip" 
+            android:src="@drawable/label_limit" 
+            android:scaleType="fitCenter" 
+            android:layout_alignLeft="@+id/goods_pic"
+            android:layout_alignTop="@+id/goods_pic"
+            android:contentDescription="@string/app_name" />
+        <TextView 
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            android:gravity="center" 
+            android:id="@+id/tv_goodslabel" 
+            android:background="@drawable/layout_goodslable_black" 
+            android:paddingLeft="10.0dip"
+            android:paddingTop="3.0dip" 
+            android:paddingRight="10.0dip" 
+            android:paddingBottom="3.0dip" 
+            android:visibility="gone" 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" 
+            android:layout_alignLeft="@+id/goods_pic"
+            android:layout_alignRight="@+id/goods_pic"
+            android:layout_alignBottom="@+id/goods_pic" />
+        <TextView android:textSize="@dimen/text_medium" 
+            android:textColor="@color/black_text" 
+            android:ellipsize="end" 
+            android:id="@+id/tv_goodsname"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:layout_marginLeft="8.0dip"
+            android:layout_marginRight="10.0dip" 
+            android:maxLines="2" 
+            android:layout_toRightOf="@+id/goods_pic"
+            android:layout_alignTop="@+id/goods_pic" />
+        <TextView 
+            android:textSize="@dimen/text_micro" 
+            android:textColor="@color/gray_text" 
+            android:id="@+id/tv_goodsprice"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:layout_marginRight="10.0dip"
+            android:layout_below="@+id/tv_goodsname"
+            android:layout_alignLeft="@+id/tv_goodsname" />
+        <LinearLayout 
+            android:orientation="horizontal" 
+            android:layout_width="fill_parent" 
+            android:layout_height="wrap_content" 
+            android:layout_below="@+id/tv_goodsprice" 
+            android:layout_alignLeft="@+id/tv_goodsname">
+            <include
+                android:id="@+id/pn_goods"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                layout="@layout/layout_goods_progress"
+                android:layout_marginTop="1.0dip" 
+                android:layout_weight="1.0" />
+            <ImageView android:id="@+id/iv_put_in_cart" 
+                android:paddingLeft="10.0dip" 
+                android:paddingRight="10.0dip"
+                android:layout_width="wrap_content" 
+                android:layout_height="32.0dip"
+                android:layout_gravity="bottom"
+                android:src="@drawable/add_to_cart"
+                android:contentDescription="@string/app_name" />
+        </LinearLayout>
+        <TextView android:textSize="@dimen/text_micro"
+            android:textColor="@color/gray_text"
+            android:id="@+id/tv_stop_selling_tips" 
+            android:visibility="gone"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:layout_marginTop="@dimen/padding_normal" 
+            android:text="@string/has_stop_selling"
+            android:layout_below="@+id/tv_goodsprice"
+            android:layout_alignLeft="@+id/tv_goodsname" />
+    </RelativeLayout>
+</LinearLayout>

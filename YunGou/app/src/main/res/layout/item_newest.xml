@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    android:orientation="horizontal" 
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout 
+        android:id="@+id/layout" 
+        android:paddingLeft="8.0dip"
+        android:paddingTop="10.0dip" 
+        android:paddingBottom="10.0dip" 
+        android:layout_width="fill_parent"
+        android:background="@drawable/all_stroke"
+        android:layout_height="wrap_content">
+        <ImageView android:id="@+id/iv_goodspic" 
+            android:layout_width="100.0dip"
+            android:layout_height="100.0dip"
+            android:scaleType="fitCenter"
+            />
+        <ImageView 
+            android:id="@+id/iv_goodslabel"
+            android:layout_width="40.0dip" 
+            android:layout_height="40.0dip"
+            android:src="@drawable/label_limit" 
+            android:scaleType="centerCrop"
+            android:visibility="gone"
+            android:contentDescription="@string/app_name" />
+        <RelativeLayout 
+            android:id="@+id/rl_account" 
+            android:layout_width="fill_parent" 
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8.0dip" 
+            android:layout_marginRight="0.0dip" 
+            android:layout_toRightOf="@+id/iv_goodspic" 
+            android:layout_alignTop="@+id/iv_goodspic">
+            <ImageView 
+                android:id="@+id/sriv_avatar" 
+                android:layout_width="40.0dip" 
+                android:layout_height="40.0dip"
+                android:layout_marginRight="8.0dip" 
+                android:scaleType="centerCrop"
+                android:contentDescription="获得者头像"
+                android:layout_alignParentRight="true" />
+            <TextView android:textSize="@dimen/text_medium"
+                android:textColor="@color/black_text"
+                android:gravity="top" 
+                android:id="@+id/tv_accountname" 
+                android:layout_width="fill_parent" 
+                android:layout_height="wrap_content"
+                android:text="获得者:12456"
+                android:layout_toLeftOf="@+id/sriv_avatar"
+                android:layout_alignTop="@+id/sriv_avatar" />
+            <TextView android:textSize="@dimen/text_small"
+                android:textColor="@color/gray_text"
+                android:id="@+id/tv_times"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="本云参与:630次"
+                android:singleLine="true"
+                android:layout_below="@+id/tv_accountname" />
+            <TextView android:textSize="14.0sp"
+                android:textColor="@color/gray_text" 
+                android:id="@+id/tv_code"
+                android:visibility="gone"
+                android:layout_width="fill_parent" 
+                android:layout_height="wrap_content" 
+                android:text="tv_code" 
+                android:singleLine="true" 
+                android:layout_below="@+id/tv_times" />
+            <TextView android:textSize="@dimen/text_micro" 
+                android:textColor="@color/declare_text"
+                android:id="@+id/tv_price" 
+                android:layout_width="fill_parent" 
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8.0dip"
+                android:text="价值:￥49"
+                android:layout_below="@+id/tv_code" />
+            <TextView android:textSize="@dimen/text_micro"
+                android:textColor="@color/declare_text" 
+                android:id="@+id/tv_time"
+                android:layout_width="fill_parent" 
+                android:layout_height="wrap_content"
+                android:text="揭晓时间:2016年10月8日 15:32:56:128"
+                android:singleLine="true"
+                android:layout_below="@+id/tv_price"
+                android:layout_alignLeft="@+id/tv_code" />
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

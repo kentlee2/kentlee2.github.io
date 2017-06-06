@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.haoqi.yungou.widget.SquareLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/album_grid_item_iv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop" />
+
+        <RelativeLayout
+            android:id="@+id/album_grid_item_relative"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <!-- android:background="@drawable/plugin_camera_pic_choose_selector" -->
+
+            <TextView
+                android:id="@+id/album_grid_item_tv_choosed"
+                android:layout_width="20dip"
+                android:layout_height="20dip"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="8dip"
+                android:layout_marginTop="4dip"
+                android:background="@drawable/plugin_camera_cancle_img" />
+
+            <ToggleButton
+                android:id="@+id/album_grid_item_btn_toggle"
+                android:layout_width="35dip"
+                android:layout_height="35dip"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:background="@color/transparent"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:textOff="@null"
+                android:textOn="@null" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</com.haoqi.yungou.widget.SquareLayout>

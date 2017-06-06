@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:descendantFocusability="blocksDescendants"
+    android:layout_height="match_parent">
+<RelativeLayout
+    android:id="@+id/rl_sort"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:orientation="horizontal">
+ <ImageView
+     android:id="@+id/sort0"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_centerVertical="true"
+     android:layout_marginLeft="10dp"
+     android:background="@drawable/_sort0_state_bg"/>
+    <TextView
+        android:id="@+id/all"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black_text"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/default_gap"
+        android:layout_toRightOf="@+id/sort0"
+        android:text="@string/all_goods_type"/>
+    <CheckBox
+        android:id="@+id/chebox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:button="@drawable/goods_type_check"/>
+</RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\_sort2_state_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\_sort2_state_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_progressbar_mini.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\shape_progressbar_mini.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_progress_indeterminate_horizontal.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\goods_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ractancle_red_normal.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\ractancle_red_normal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shaidan_comment.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\shaidan_comment.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_add_to_cart.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\button_add_to_cart.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_newest_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\home_newest_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_choose1.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\checkbox_choose1.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_common_checkbox_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_common_checkbox_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_normal_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\item_normal_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_radius_bottom_gray.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\layout_radius_bottom_gray.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login_qq.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\button_login_qq.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_all_red_normal.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_all_red_normal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\_sort355_state_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\_sort355_state_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_increase_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_increase_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_check_state.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\cart_check_state.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\_sort106_state_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\_sort106_state_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_border_style.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_border_style.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_choose_small.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\checkbox_choose_small.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_btn_bank_card_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_btn_bank_card_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_common_btn_bg_color.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_common_btn_bg_color.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_border_blue_style.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_border_blue_style.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_all_red.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_all_red.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recharge_btn_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\recharge_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_btn_bg_orange.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_btn_bg_orange.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\_sort0_state_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\_sort0_state_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\_sort100_state_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\_sort100_state_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_top_normal.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_top_normal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_cart_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\home_cart_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shaidan_share.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\shaidan_share.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_tab_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\common_tab_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_edit_count.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\cart_edit_count.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_btn_bg_left_back.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_btn_bg_left_back.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_btn_bg_orange2.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_btn_bg_orange2.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dialog_confirm_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_dialog_confirm_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_type_check.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\goods_type_check.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_all_red2dim.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_all_red2dim.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\subtheme_corner_normal.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\subtheme_corner_normal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_all_gray.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_all_gray.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\all_stroke_normal.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\all_stroke_normal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_radius_all_gray.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\layout_radius_all_gray.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_radius_all_white_stroke_gray.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\layout_radius_all_white_stroke_gray.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_list_widget_item_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_list_widget_item_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\all_stroke_pressed.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\all_stroke_pressed.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_loading.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_loading.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_list_item_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_list_item_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_round_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\progress_round_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_top.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_top.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\cart_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_ui_back_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_ui_back_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yellow_btn_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\yellow_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_listview_item_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_listview_item_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_bottom_normal.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_bottom_normal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_all.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_all.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_indeterminate_horizontal.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hot_search_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\hot_search_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_all_red_round.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_all_red_round.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\_sort312_state_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\_sort312_state_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_goodslable_black.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\layout_goodslable_black.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\all_stroke.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\all_stroke.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_list_item_selector_white.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_list_item_selector_white.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_radius_all_white_stroke_orange.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\layout_radius_all_white_stroke_orange.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\_sort222_state_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\_sort222_state_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_common_radio_btn_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_common_radio_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_corner.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\theme_corner.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_pic_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\add_pic_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_all_press.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_all_press.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_all_enable_fasle.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_all_enable_fasle.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hotgoods_progress.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\hotgoods_progress.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\clear_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_me_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\home_me_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dialog_cancel_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_dialog_cancel_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_all_normal.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_all_normal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\code_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\code_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\loading.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_shape12.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\corners_shape12.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_bottom_press.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_bottom_press.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\subtheme_corner.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\subtheme_corner.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_to_cart.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\add_to_cart.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_record_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_check_record_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\subtheme_corner_pressed.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\subtheme_corner_pressed.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_all_red_press.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_all_red_press.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shaidan_envy.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\shaidan_envy.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radius_top_press.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_radius_top_press.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_notice_state.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\tv_notice_state.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_goods_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\home_goods_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\et_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\et_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_fillet_bg_color_7.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_fillet_bg_color_7.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login_wx.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\button_login_wx.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\home_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_fillet_border_color_8_2.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_fillet_border_color_8_2.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_common_btn_text_color.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_common_btn_text_color.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipay_checkbox_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\YunGou\\iapppay_res\\unspecified\\res\\drawable\\ipay_checkbox_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\_sort104_state_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\_sort104_state_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_go_shopping.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\button_go_shopping.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\YunGou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_decrease_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\YunGou\\app\\src\\main\\res\\drawable\\btn_decrease_bg.xml"
+    }
+]

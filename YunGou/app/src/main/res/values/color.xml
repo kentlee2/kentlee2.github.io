@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="dark_gray">#cfcfcf</color>
+    <color name="black_text">#ff666666</color>
+    <color name="gray_text">#ff999999</color>
+    <color name="red_text">#DD2726</color>
+    <color name="stroke">#ffdedede</color>
+    <color name="main_background">#ffffffff</color>
+    <color name="declare_text">#ffbbbbbb</color>
+    <color name="setting_background">#fff4f4f4</color>
+    <color name="dimorange">#B22222</color>
+    <color name="button_enable_fasle">#ffe5e5e5</color>
+    <color name="theme">#DD2726</color>
+    <color name="transparent">#00000000</color>
+    <!-- 浅灰色 -->
+    <color name="ban_transparent">#b5555555</color>
+    <color name="background">#F7F4F0</color>
+    <color name="title_color">#333333</color>
+    <color name="click_bg_color">#ffe6e6e6</color>
+    <color name="blue">#ff0079ff</color>
+    <color name="pink_text">#FF00FF</color>
+    <color name="background_divider">#ffe6e6e6</color>
+    <color name="cyan_text">#ff22aaff</color>
+    <color name="link_text">#ff49b8ff</color>
+    <color name="dimgrey">#ff696969</color>
+    <color name="tips_text">#ffdddddd</color>
+    <color name="notice_divild_blackground">#ffffd89f</color>
+    <color name="notice_blackground">#fffffcdb</color>
+    <color name="black_alpha_text">#48666666</color>
+    <color name="tab_background">#fff7f7f7</color>
+    <color name="divider">#fff0f0f0</color>
+
+    <color name="navpage">#FFE1E8EB</color>
+    <!-- 基本色 -->
+    <color name="transparent_75">#bf000000</color>
+</resources>

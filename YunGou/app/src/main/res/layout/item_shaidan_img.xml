@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginRight="8dp"
+            android:layout_height="180dp">
+            <ImageView
+                android:id="@+id/iv_shaidan"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:background="@drawable/goods_pic_default"/>
+            <TextView
+                android:id="@+id/shaidan_title"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_gravity="bottom"
+                android:background="@color/black_alpha_text"
+                android:textColor="@color/white"
+                android:gravity="center"
+                android:textSize="14sp"
+                android:text=""/>
+        </FrameLayout>
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="180dp">
+            <ImageView
+                android:id="@+id/iv_shaidan2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:background="@drawable/goods_pic_default"/>
+            <TextView
+                android:id="@+id/shaidan_title2"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_gravity="bottom"
+                android:background="@color/black_alpha_text"
+                android:textColor="@color/white"
+                android:gravity="center"
+                android:textSize="14sp"
+                android:text=""/>
+        </FrameLayout>
+    </LinearLayout>
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/default_gap"
+        android:orientation="horizontal">
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_marginRight="8dp"
+            android:layout_weight="1">
+            <ImageView
+                android:id="@+id/iv_shaidan3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:background="@drawable/goods_pic_default"/>
+            <TextView
+                android:id="@+id/shaidan_title3"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_gravity="bottom"
+                android:background="@color/black_alpha_text"
+                android:textColor="@color/white"
+                android:gravity="center"
+                android:text=""/>
+        </FrameLayout>
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_weight="1">
+            <ImageView
+                android:id="@+id/iv_shaidan4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:background="@drawable/goods_pic_default"/>
+            <TextView
+                android:id="@+id/shaidan_title4"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_gravity="bottom"
+                android:background="@color/black_alpha_text"
+                android:textColor="@color/white"
+                android:gravity="center"
+                android:text=""/>
+        </FrameLayout>
+
+    </LinearLayout>
+</LinearLayout>

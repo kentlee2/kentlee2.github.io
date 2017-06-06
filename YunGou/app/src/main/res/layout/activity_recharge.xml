@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_background"
+    xmlns:hq="http://schemas.android.com/apk/res-auto"
+    tools:context="com.haoqi.yungou.Activity.RechargeActivity">
+    <com.haoqi.yungou.customView.NavigationView
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        hq:leftBackgroud ="@drawable/previous_pre"
+        hq:title = "@string/recharge"
+        hq:rightText="@string/recharge_detail"/>
+     <TextView
+         android:id="@+id/tv_first_amount"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/title_bar"
+         android:layout_marginLeft="20dp"
+         android:layout_marginTop="20dp"
+         android:visibility="gone"
+         android:text="您当前的余额为:"/>
+     <TextView
+         android:id="@+id/tv_amount"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/title_bar"
+         android:layout_marginTop="20dp"
+         android:textColor="@color/red_text"
+         android:visibility="gone"
+         android:layout_toRightOf="@+id/tv_first_amount"
+         android:text="0.0元"/>
+    <GridView
+        android:id="@+id/recharge_grid"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/tv_amount"
+        android:layout_height="wrap_content"
+        android:numColumns="3"
+        android:padding="12dp" />
+    <include layout="@layout/layout_pay_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/recharge_grid"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="20dp"
+        android:textColor="@color/white"
+        android:text="@string/recharge_sure"
+        android:background="@drawable/btn_radius_all_red2dim"
+        android:id="@+id/btn_recharge" />
+</RelativeLayout>
