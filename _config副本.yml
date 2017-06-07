@@ -1,4 +1,4 @@
-﻿
+
 # Site settings
 name: kentlee2.github.io
 email: luoyan35714@126.com
@@ -9,9 +9,9 @@ github: https://github.com/luoyan35714/
 port: 3333
 baseurl: ""
 description: Actually, less is more!
-meta_description: 学而不思则罔，思而不学则殆。
+meta_description: 康志�?个人博客;学而不思则�?思而不学则�?生命不止;折腾不休
 motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+banner: 学而不思则罔，思而不学则殆�?
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 paginate: 10
