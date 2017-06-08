@@ -1,4 +1,14 @@
-早些时候就听说过AIDL，也常在各种Android面试题、教程甚至大牛采访中看到过它的身影。可见AIDL在Android开发中的地位十分的重要。
+---
+layout: post
+title:   **Android中AIDL的基本用法**
+date:   2017-6-8 11:07:24 +0800
+categories: 转载
+tag: 教程
+---
+
+* content
+{:toc}
+早些时候就听说过**AIDL**，也常在各种Android面试题、教程甚至大牛采访中看到过它的身影。可见AIDL在Android开发中的地位十分的重要。
 
 于是决定先从AIDL的一些基本概念和基本用法开始着手学习它，下面是一些整理的笔记。
 
