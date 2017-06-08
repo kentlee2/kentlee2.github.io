@@ -24,9 +24,11 @@ Android Developer的官方文档中对AIDL做了很好的概括。当作为客�
 从AIDL的功能来看，它主要的应用场景就是IPC。虽然同一个进程中的client-service也能够通过AIDL定义接口来进行通信，但这并没有发挥AIDL的主要功能。
 概括来说：
 
-如果不需要IPC，那就直接实现通过继承Binder类来实现客户端和服务端之间的通信。
-如果确实需要IPC，但是无需处理多线程，那么就应该通过Messenger来实现。Messenger保证了消息是串行处理的，其内部其实也是通过AIDL来实现。
-在有IPC需求，同时服务端需要并发处理多个请求的时候，使用AIDL才是必要的
+**如果不需要IPC，那就直接实现通过继承Binder类来实现客户端和服务端之间的通信。**
+
+**如果确实需要IPC，但是无需处理多线程，那么就应该通过Messenger来实现。Messenger保证了消息是串行处理的，其内部其实也是通过AIDL来实现。**
+
+**在有IPC需求，同时服务端需要并发处理多个请求的时候，使用AIDL才是必要的**
 在了解了基本的概念和使用场景之后，使用AIDL的基本步骤如下：
 
 编写.AIDL文件，定义需要的接口
@@ -94,6 +96,8 @@ Map类型不支持指定泛型类，比如Map<String,String>。只能Map表示�
             this.pid = pid;
         }
     }
+
+
 为了让`HelloMsg`能够在进程间传递， 它必须实现`Parcelable`接口，Parcelable是Android提供的一种序列化方式，如果嫌手写麻烦的话，通过插件我们可以十分快捷为现有的类添加Parcelable实现：
 
     /*HelloMsg.java*/
@@ -154,6 +158,7 @@ Map类型不支持指定泛型类，比如Map<String,String>。只能Map表示�
             }
         };
     }
+
 定义好`HelloMsg.java`之后，还需要新增一个与其同名的**AIDL**文件。那么同样按照刚才的步骤右键**src**文件夹，添加一个名为HelloMsg的AIDL文件。
 这个AIDL的编写十分简单，只需要简单的声明一下要用到的Pacelable类即可，有点类似C语言的头文件，这个AIDL文件是不参与编译的：
 
