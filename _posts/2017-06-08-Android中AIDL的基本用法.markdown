@@ -195,6 +195,9 @@ public static learn.android.kangel.learning.IRemoteService asInterface(android.o
                     "main thread id is " + getMainLooper().getThread().getId(), Process.myPid());
         }
     };
+
+
+
 这里的实现十分简单，返回一个`HelloMsg`,消息部分是当前线程的信息，当前线程的id，以及主线程的id，Process Id部分就是当前进程的Id
 
 # 3. 将接口暴露给客户端调用 #
