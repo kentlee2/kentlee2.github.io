@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  android仿支付宝密码输入键盘
-date:   6/13/2017 12:08:45 PM 
+date:   6/13/2017 12:08:45 +0800
 categories: 原创
 tag: 教程
 ---
