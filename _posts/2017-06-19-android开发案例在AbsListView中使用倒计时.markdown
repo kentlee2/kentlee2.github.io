@@ -76,4 +76,5 @@ public void onFinish(View view) {
 
 
 
-具体使用请看MainActivity.java和GridAdapter
+具体使用请看
+[https://github.com/kentlee2/CountDownTask](https://github.com/kentlee2/CountDownTask)
