@@ -53,7 +53,10 @@ Android Developer的官方文档中对AIDL做了很好的概括。当作为客�
     interface IRemoteService {
 
         HelloMsg sayHello();
+
     }
+
+
 AIDL的写法和Java十分类似，这里我定义了一个`sayHello()`方法，用来获取一个从服务端返回的消息`HelloMsg`。
 这里的HelloMsg是我自己定义的一个类型。默认情况下，AIDL支持下列所述的数据类型:
 
